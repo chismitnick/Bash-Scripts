@@ -1,2 +1,2 @@
 # Bash-Scripts
-A collection of bash scripts written in prep for CompTIA Linux + certification
+A collection of bash scripts
