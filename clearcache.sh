@@ -1,7 +1,8 @@
 #!/bin/bash
 #Csamiselo Jun 2020
 #csamiselo@github.com
-  #Script to clear up RAM cahe using the sync command 
+#Script to clear RAM  when availability is below 15%
+#TO DO : modif the script for automation using cron
 
 #!/bin/bash
 
